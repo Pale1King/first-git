@@ -1,0 +1,38 @@
+body, html{
+    background-color: black;
+    height: 100%;
+    margin: 0;
+    background-image: url("siteBackground.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    font-size: 150px;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+.aboutMe{
+    font-size:20px;
+    background-color: black;
+    color: white;
+}
+.aboutMeDiv{
+    width:auto;
+    bottom: 0;
+    position: fixed;
+}
+.scheduleDiv{
+    font-size: 30px;
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.schedule{
+    width: 300px;
+    margin-left: 2%;
+    border: solid;
+    border-color: black;
+    border-width:3px;
+}
